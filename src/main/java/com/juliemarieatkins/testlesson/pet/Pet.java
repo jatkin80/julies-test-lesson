@@ -19,6 +19,6 @@ public class Pet {
 
   @Column(name = "name")
   private String name;
-  @Column(breed= "breed")
+  @Column(name= "breed")
   private String breed;
 }
